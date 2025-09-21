@@ -1,6 +1,6 @@
 # Hi, I'm Swathi Priya 👋
 
-💡 When I'm not coding, I'm brainstorming solutions to everyday problems.  
+💡 When I'm not coding, I'm exploring ideas and building solutions. 
 ⚡ Fun fact: I debug faster with coffee ☕  
 📚 Currently learning: DSA, Machine Learning, AI/ML  
 🛠️ Languages: Java, Python, JavaScript  
