@@ -1,8 +1,11 @@
 # Hi, I'm Swathi Priya 👋
 
 💡 When I'm not coding, I'm exploring ideas.
+
 ⚡ Fun fact: I debug faster with coffee ☕ . 
+
 📚 Currently learning: DSA, AI/ML.  
+
 🛠️ Languages: Java, Python, JavaScript.  
 
 
