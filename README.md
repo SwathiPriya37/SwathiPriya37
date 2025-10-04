@@ -1,9 +1,5 @@
 # Hi, I'm Swathi Priya 👋
-
-💡 When I'm not coding, I'm exploring ideas.
-
-📚 Currently learning: DSA, AI/ML.  
-
+"Exploring intelligent AI/ML systems while crafting dynamic and engaging web experiences!"
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SwathiPriya37&show_icons=true&theme=tokyonight)
 
