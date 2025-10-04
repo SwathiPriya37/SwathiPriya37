@@ -1,4 +1,3 @@
-# Hi, I'm Swathi Priya 👋
 "Exploring intelligent AI/ML systems while crafting dynamic and engaging web experiences!"
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SwathiPriya37&show_icons=true&theme=tokyonight)
